@@ -1,0 +1,13 @@
+name: LuckyFox
+main: LuckyWars\LuckyWars
+author: FoxyDroiid Updater
+version: 2.0.0
+api: [3.11.3]
+
+commands:
+    lw:
+        usage: /lw <leave-make>
+        description: LuckyWars-Commands
+    lwstart:
+        usage: /lwstart
+        description: LuckyWars-Force start
